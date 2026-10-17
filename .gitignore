@@ -1,0 +1,22 @@
+﻿# KiCad
+*-backups/
+*.bak
+fp-info-cache
+*-cache.lib
+_autosave-*
+*.kicad_prl
+
+# SolidWorks (fichiers temporaires)
+~$*
+
+# Arduino / build
+build/
+*.elf
+*.bin
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Archives
+*.rar
